@@ -1,5 +1,5 @@
 {
-  "name": "electron-lark",
+  "name": "electron-alimail",
   "version": "1.1.1",
   "main": "src/main.js",
   "description": "An Electron application for Alimail(base on Lark)",
